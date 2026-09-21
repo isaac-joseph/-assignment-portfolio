@@ -1,4 +1,4 @@
-console.log("Starting Hello, World.")
+console.log("Isaac Assignment Portfolio.")
 
 function makeGreen() {
 	console.log("Calling makeGreen function")
